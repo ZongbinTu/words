@@ -39,4 +39,5 @@
     num =setInterval(get_next_page,300)
 })()
 ```
+代码来源 [网页版扇贝单词（今日复习，在学单词，未学单词）网页爬取javascript代码](https://blog.csdn.net/baidu_40601892/article/details/125452465)
 ### 得到新词，作为新单词书上传
